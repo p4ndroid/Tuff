@@ -1,0 +1,12 @@
+# CMake / CLion
+cmake-build-*/
+build/
+dependencies/vcpkg
+
+# Cache / logs
+*.log
+*.cache
+
+# OS-specific
+.DS_Store
+Thumbs.db

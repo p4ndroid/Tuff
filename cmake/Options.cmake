@@ -1,0 +1,1 @@
+option(USE_PROJECT_VCPKG "Use vcpkg from dependencies/vcpkg submodule as package manager" OFF)
